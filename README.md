@@ -1,5 +1,5 @@
 # Banco-Simples---Python
-Esse é um programação de banco com senha, saques e saldos
+Esse é um programa de banco com duas partes a primeira é utilizada para mostrar valor_saque, valor_deposito e saldo ja a segunda parte é mais evoluido contendo senha, saldo, saque, deposito e com a oposição se deseja sair ou não.
 
 Primeira Parte Banco 1.0
 
